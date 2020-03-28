@@ -8,6 +8,7 @@ namespace xxx
      public string Name;
      public string Author;
 
+public int PublishingYear;
  }
     
 }
