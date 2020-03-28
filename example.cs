@@ -9,6 +9,8 @@ namespace xxx
      public string Author;
 
 public int CreateYear;
+
+    private bool IsPublic ;
  }
     
 }
