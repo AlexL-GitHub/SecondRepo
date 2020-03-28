@@ -1,0 +1,9 @@
+namespace xxx
+{
+  public class car 
+  {
+    public object Engine;
+    private string Remark;
+    public string Name
+  }
+}
