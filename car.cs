@@ -6,5 +6,9 @@ namespace xxx
     public object Engine;
     private string Remark;
     public string Name
+	
+    public void Run()
+	{}
+	
   }
 }
