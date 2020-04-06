@@ -1,16 +1,17 @@
 //this c# example
 
-using System.Linq
-namespace xxx
+using System.Linq;
+namespace FoxHome.GitHubLearning
 {
- public class Book{
+    public class Book
+    {
 
-     public string Name;
-     public string Author;
+        public string Name;
+        public string Author;
 
-public int CreateYear;
+        public int CreateYear;
 
-    private bool IsPublic ;
- }
-    
+        private bool IsPublic;
+    }
+
 }

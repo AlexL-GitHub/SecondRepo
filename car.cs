@@ -1,14 +1,14 @@
-namespace xxx
+namespace FoxHome.GitHubLearning
 {
- // this comment i want write to stash
-  public class car 
-  {
-    public object Engine;
-    private string Remark;
-    public string Name
-	
-    public void Run()
-	{}
-	
-  }
+    // this comment i want write to stash
+    public class car
+    {
+        public object Engine;
+        private string Remark;
+        public string Name;
+
+        public void Run()
+        { }
+
+    }
 }
