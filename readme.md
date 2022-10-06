@@ -1,4 +1,6 @@
 
 its my first public repo on github
 
-the update that i want reset
+intended to learn the git and coworkers cooperation 
+
+by doing exercises
